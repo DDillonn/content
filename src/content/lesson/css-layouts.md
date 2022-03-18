@@ -139,7 +139,7 @@ This course is not just about user interface (UI) and experience (UX).  Web deve
 Some websites have great content, but, unfortunately, they also have poor layouts that limit their potential for success.  These are the main criteria to consider when choosing your layout:
 
 + **Responsiveness:**  Does the website need to adapt to different screens? You could create separate websites for each device type, or mobile apps + websites, but having a responsive website is always recommended.  You don’t want to miss any traffic because the website doesn’t load properly.
-+ **Device Screen Size:** Small screens cannot have the same number of columns as larger ones; the images may need to be smaller, among other considerations.  E.g: The iPhone SE has a very small screen, and it's used by a big-enough percentage of the iPhone users.  Sidebars are not a good idea on these devices.
++ **Device Screen Size:** Small screens cannot have the same number of columns as larger ones; the images may need to be smaller, among other considerations.  E.g.: The iPhone SE has a very small screen, and it's used by a big-enough percentage of the iPhone users.  Sidebars are not a good idea on these devices.
 + **Orientation:** If you are using a tablet or mobile phone, you can rotate your screen which will require the website width to adjust and become bigger (for landscape) or smaller (for portrait).
 + **Common Sense:** This is a tricky one, but you will never know what works best until you try.  Perhaps moving a website menu from the top to the left will increase user engagement.  You must always be in constant search for "the truth" about your user behavior.
   
